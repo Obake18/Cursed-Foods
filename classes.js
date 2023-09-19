@@ -9,7 +9,7 @@ class Comida{
 }
 
 class Cardapio {
-    constructor (listaDeComida){
+    constructor(){
         this.listaDeComida = listaDeComida.adicionarComida(comida);
     
     }
